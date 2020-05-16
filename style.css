@@ -11,5 +11,11 @@ h1 {
 }
 
 li{
-display:
+ /* display:none;  */
+  
+ /* display:inline; */
+  
+    display:block
+  
+  
 }

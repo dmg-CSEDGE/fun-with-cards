@@ -15,7 +15,16 @@ li{
   
  /* display:inline; */
   
-    display:block
+  /*  display:inline-block */
   
   
+}
+img{
+  width:320;
+  height:200px;
+  margin:0;
+}
+.pic-frame{
+  
+  display:inline-block
 }

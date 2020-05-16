@@ -22,7 +22,8 @@ li{
 img{
   width:320;
   height:200px;
-  display:inline-block;
+  display:inline;
+  margin:5px;
   float:right; /*change to left */
    
   
@@ -47,7 +48,7 @@ img{
 .caption{
   
   
-  margin:10px;
+  margin-right:10px;
    
    
    

@@ -13,7 +13,7 @@ h1 {
 li{
  /* display:none;  */
   
- /* display:inline; */
+  display:block; 
   
   /*  display:inline-block */
   

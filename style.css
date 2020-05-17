@@ -27,8 +27,9 @@ li{
 img{
   width:320px;
   height:200px;
-  display:inline;
   margin:5px;
+  
+  /* experiment below */
    
   
    
@@ -41,6 +42,8 @@ img{
   background:#f2f2f2;
   padding:10px;
   margin:10px;
+  
+  /*experiment below */
    
   
   
@@ -53,9 +56,8 @@ img{
   
   
   margin-right:10px;
-  width:320px;
-  dispaly:inline-block;
-   
+  width:320px; /* try changing or removing the width */
+  dispaly:inline-block; /*inline-block lets us set a width */
    
    
 }

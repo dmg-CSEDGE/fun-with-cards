@@ -11,9 +11,14 @@ h1 {
 }
 
 li{
+  background: #f2f2f2;
+  margin:10px;
+  width: 40px;
  /* display:none;  */
   
-  display:block; 
+  /* display:block; */
+  
+  /*  display:inline */
   
   /*  display:inline-block */
   
@@ -24,7 +29,6 @@ img{
   height:200px;
   display:inline;
   margin:5px;
-  float:right; /*change to left */
    
   
    
@@ -32,12 +36,12 @@ img{
 }
 .pic-frame{
   
-  display:inline-block;
+  
+  display:inline-block; /* Try with inline only or block. What happens? */
   background:#f2f2f2;
   padding:10px;
   margin:10px;
-  width:600px;
-  height:210px;
+   
   
   
   
@@ -49,6 +53,8 @@ img{
   
   
   margin-right:10px;
+  width:320px;
+  dispaly:inline-block;
    
    
    

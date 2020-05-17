@@ -37,7 +37,7 @@ img{
 }
 .pic-frame{
   
-  
+  box-shadow: 5px 10px 18px #888888; /* box-shadow gives it some emphasis, look it up!*/
   display:inline-block; /* Try with inline only or block. What happens? */
   background:#f2f2f2;
   padding:10px;

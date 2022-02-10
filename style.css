@@ -40,5 +40,5 @@ img {
 .caption {
   margin-right: 10px;
   width: 320px; /* try changing or removing the width */
-  dispaly: inline-block; /*inline-block lets us set a width */
+   display:block /*inline-block lets us set a width */
 }
